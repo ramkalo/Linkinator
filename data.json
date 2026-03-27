@@ -1,6 +1,6 @@
 {
-  "title": "My Projects",
-  "description": "A collection of my work across music, coding, and art",
+  "title": "Ram Kalo",
+  "description": "Collection of works across Music, Photography, and Coding",
   "categories": [
     {
       "name": "Ram Kalo Music",
@@ -42,17 +42,17 @@
       "links": [
         {
           "title": "Retroinator",
-          "url": "https://github.com/username/linkinator",
+          "url": "https://github.com/username/Retroinator",
           "description": "Photo Editor"
         },
         {
           "title": "Tunnelinator",
-          "url": "https://github.com/username/linkinator",
+          "url": "https://github.com/username/Tunnelinator",
           "description": "Visual Synth"
         },
         {
           "title": "Obeyinator",
-          "url": "https://ramkalo.github.io/Tunnelinator",
+          "url": "https://ramkalo.github.io/Obeyinator",
           "description": "MIDI Generator"
         }
       ]
