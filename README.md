@@ -1,11 +1,14 @@
 # My Projects
 
-A cyberpunk-themed, mobile-friendly portfolio for your projects.
+A simple, mobile-friendly portfolio for hosting links to your projects.
 
 ## Quick Start
 
-1. **Test locally**: Open `index.html` in your browser
-2. **Add/edit links**: Open `script.js` and edit the `projectData` object
+1. **Edit links**: Open `data.json` and add your projects
+2. **Test locally**: Open `index.html` in your browser, or run:
+   ```bash
+   npx serve .
+   ```
 3. **Deploy to GitHub Pages**:
    - Push to a GitHub repository
    - Go to Settings → Pages
@@ -13,10 +16,10 @@ A cyberpunk-themed, mobile-friendly portfolio for your projects.
 
 ## Adding Projects
 
-Edit `script.js` to add categories and links. The data is in the `projectData` object at the top of the file:
+Edit `data.json` to add categories and links:
 
-```javascript
-const projectData = {
+```json
+{
   "title": "My Projects",
   "description": "A collection of my work",
   "categories": [
@@ -31,12 +34,12 @@ const projectData = {
       ]
     }
   ]
-};
+}
 ```
 
 ## File Structure
 
 - `index.html` - Main page (don't need to edit)
-- `script.js` - All your links and categories (edit this!)
+- `data.json` - All your links and categories (edit this!)
 - `styles.css` - Styling (optional customization)
-- `data.json` - Backup file (not used anymore)
+- `script.js` - Loads and renders data (don't need to edit)

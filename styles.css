@@ -203,19 +203,6 @@ body {
   margin-top: 3rem;
 }
 
-.footer span {
-  color: var(--yellow);
-}
-
-.blink {
-  animation: blink 1s step-end infinite;
-  color: var(--green);
-}
-
-@keyframes blink {
-  50% { opacity: 0; }
-}
-
 @media (min-width: 640px) {
   .header h1 {
     font-size: 2.5rem;
