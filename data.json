@@ -80,6 +80,11 @@
           "title": "English Budgies Bandcamp",
           "url": "https://englishbudgies.bandcamp.com/music",
           "description": "this is a cool band"
+        },
+        {
+          "title": "just a reddit page",
+          "url": "https://www.reddit.com/r/Piracy/",
+          "description": "stealing is bad"
         }
       ]
     }
