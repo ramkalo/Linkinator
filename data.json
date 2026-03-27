@@ -3,42 +3,57 @@
   "description": "A collection of my work across music, coding, and art",
   "categories": [
     {
-      "name": "Music",
+      "name": "Ram Kalo Music",
       "links": [
         {
-          "title": "Echoes in the Static",
-          "url": "https://example.com/music",
-          "description": "Ambient album released 2024"
+          "title": "Youtube",
+          "url": "https://www.youtube.com/@ramkalomusic",
+          "description": "YouTube is a little evil"
         },
         {
-          "title": "Midnight Sessions",
-          "url": "https://example.com/bandcamp",
-          "description": "Lo-fi beats for late night coding"
+          "title": "Bandcamp",
+          "url": "https://ramkalo.bandcamp.com/",
+          "description": "Bandcamp is kinda good"
+        },
+        {
+          "title": "SoundCloud",
+          "url": "https://on.soundcloud.com/d8szPdu5brCmBwFP7",
+          "description": "SoundCloud is also a little evil"
         }
       ]
     },
     {
-      "name": "Coding",
+      "name": "Hadean Lights Music",
       "links": [
         {
-          "title": "Linkinator",
+          "title": "Bandcamp",
+          "url": "https://www.youtube.com/@ramkalomusic",
+          "description": "Link to the Hadean Lights Bandcamp Page"
+        },
+        {
+          "title": "Youtube",
+          "url": "https://www.youtube.com/",
+          "description": "Coming Soon"
+        }
+      ]
+    },
+    {
+      "name": "Coding Projects",
+      "links": [
+        {
+          "title": "Retroinator",
           "url": "https://github.com/username/linkinator",
-          "description": "Simple link portfolio generator"
+          "description": "Photo Editor"
         },
         {
-          "title": "Pixel Art Tool",
-          "url": "https://example.com/pixeltool",
-          "description": "Browser-based pixel art editor"
-        }
-      ]
-    },
-    {
-      "name": "Art",
-      "links": [
+          "title": "Tunnelinator",
+          "url": "https://github.com/username/linkinator",
+          "description": "Visual Synth"
+        },
         {
-          "title": "Digital Gallery",
-          "url": "https://example.com/gallery",
-          "description": "Collection of digital illustrations"
+          "title": "Obeyinator",
+          "url": "https://ramkalo.github.io/Tunnelinator",
+          "description": "MIDI Generator"
         }
       ]
     }
