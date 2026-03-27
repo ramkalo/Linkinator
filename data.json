@@ -1,0 +1,46 @@
+{
+  "title": "My Projects",
+  "description": "A collection of my work across music, coding, and art",
+  "categories": [
+    {
+      "name": "Music",
+      "links": [
+        {
+          "title": "Echoes in the Static",
+          "url": "https://example.com/music",
+          "description": "Ambient album released 2024"
+        },
+        {
+          "title": "Midnight Sessions",
+          "url": "https://example.com/bandcamp",
+          "description": "Lo-fi beats for late night coding"
+        }
+      ]
+    },
+    {
+      "name": "Coding",
+      "links": [
+        {
+          "title": "Linkinator",
+          "url": "https://github.com/username/linkinator",
+          "description": "Simple link portfolio generator"
+        },
+        {
+          "title": "Pixel Art Tool",
+          "url": "https://example.com/pixeltool",
+          "description": "Browser-based pixel art editor"
+        }
+      ]
+    },
+    {
+      "name": "Art",
+      "links": [
+        {
+          "title": "Digital Gallery",
+          "url": "https://example.com/gallery",
+          "description": "Collection of digital illustrations"
+        }
+      ]
+    }
+  ]
+}
