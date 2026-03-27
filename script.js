@@ -24,6 +24,11 @@ function render(data) {
     descEl.style.display = 'none';
   }
 
+  const footerEl = document.getElementById('page-footer');
+  if (data.footer) {
+    footerEl.innerHTML = `<p>${escapeHtml(data.footer)}</p>`;
+  }
+
   const container = document.getElementById('categories');
   
   if (!data.categories || data.categories.length === 0) {
