@@ -7,7 +7,7 @@
       "name": "Ram Kalo Music",
       "links": [
         {
-          "title": "Youtube",
+          "title": "YouTube",
           "url": "https://www.youtube.com/@ramkalomusic",
           "description": "YouTube is a little evil"
         },
@@ -20,6 +20,11 @@
           "title": "SoundCloud",
           "url": "https://on.soundcloud.com/d8szPdu5brCmBwFP7",
           "description": "SoundCloud is also a little evil"
+        },
+        {
+          "title": "Spotify",
+          "url": "https://ramkalo.bandcamp.com/",
+          "description": "this is actually just another link to my bandcamp"
         }
       ]
     },
