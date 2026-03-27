@@ -28,7 +28,7 @@
       "links": [
         {
           "title": "Bandcamp",
-          "url": "https://www.youtube.com/@ramkalomusic",
+          "url": "https://hadeanlights.bandcamp.com/",
           "description": "Link to the Hadean Lights Bandcamp Page"
         },
         {
@@ -55,6 +55,26 @@
           "title": "Obeyinator",
           "url": "https://ramkalo.github.io/Obeyinator",
           "description": "MIDI Generator"
+        }
+      ]
+    },
+    {
+      "name": "Other Peoples Stuff You Should Check Out",
+      "links": [
+        {
+          "title": "https://b-e-a-u.com/",
+          "url": "https://b-e-a-u.com/",
+          "description": "works of Beau Johnson"
+        },
+        {
+          "title": "A FUCKING WEBSITE",
+          "url": "https://www.punk-website.com/",
+          "description": "its just a website"
+        },
+        {
+          "title": "English Budgies Bandcamp",
+          "url": "https://englishbudgies.bandcamp.com/music",
+          "description": "this is a cool band"
         }
       ]
     }
