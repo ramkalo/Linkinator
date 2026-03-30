@@ -9,7 +9,7 @@
         {
           "title": "YouTube",
           "url": "https://www.youtube.com/@ramkalomusic",
-          "description": "YouTube is a little evil"
+          "description": "YouTube is a little evil but at least its free"
         },
         {
           "title": "Bandcamp",
@@ -19,12 +19,12 @@
         {
           "title": "SoundCloud",
           "url": "https://on.soundcloud.com/d8szPdu5brCmBwFP7",
-          "description": "SoundCloud is also a little evil"
+          "description": "I've never met anyone irl who uses SoundCloud"
         },
         {
           "title": "Spotify",
-          "url": "https://ramkalo.bandcamp.com/",
-          "description": "this is actually just another link to my bandcamp"
+          "url": "https://www.spotify.com/us/signed-out/cancel/",
+          "description": "Spotify is fully evil"
         }
       ]
     },
@@ -35,11 +35,6 @@
           "title": "Bandcamp",
           "url": "https://hadeanlights.bandcamp.com/",
           "description": "Link to the Hadean Lights Bandcamp Page"
-        },
-        {
-          "title": "Youtube",
-          "url": "https://www.youtube.com/",
-          "description": "Coming Soon"
         }
       ]
     },
@@ -54,7 +49,7 @@
         {
           "title": "Tunnelinator",
           "url": "https://ramkalo.github.io/Tunnelinator",
-          "description": "Visual Synth"
+          "description": "Visual Synthesizere"
         },
         {
           "title": "Obeyinator",
@@ -85,6 +80,21 @@
           "title": "just a reddit page",
           "url": "https://www.reddit.com/r/Piracy/",
           "description": "stealing is bad"
+        },
+        {
+          "title": "some art",
+          "url": "https://www.instagram.com/theforestofazure/",
+          "description": "stealing is bad"
+        },
+        {
+          "title": "ReelName",
+          "url": "https://sentient-soup.github.io/reelname/",
+          "description": "app for fixing the metadata of your music and movies"
+        },
+        {
+          "title": "just a reddit page",
+          "url": "https://aphelion.live/projects/fiberwave/",
+          "description": "Quote: That page is so jank haha but why not"
         }
       ]
     }
