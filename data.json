@@ -34,12 +34,12 @@
         {
           "title": "Bandcamp",
           "url": "https://hadeanlights.bandcamp.com/",
-          "description": "Link to the Hadean Lights Bandcamp Page"
+          "description": "This is another music project I started in collaboration with other local musicians"
         }
       ]
     },
     {
-      "name": "Coding Projects",
+      "name": "My Coding Projects",
       "links": [
         {
           "title": "Retroinator",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Other Peoples Stuff You Should Check Out",
+      "name": "Recommended Reading",
       "links": [
         {
           "title": "https://b-e-a-u.com/",
@@ -95,6 +95,11 @@
           "title": "wtf is the point of this page?",
           "url": "https://aphelion.live/projects/fiberwave/",
           "description": "it exists isn't that enough"
+        },
+        {
+          "title": "Exorcism",
+          "url": "https://www.usccb.org/prayer-and-worship/sacraments-and-sacramentals/sacramentals-blessings/exorcism",
+          "description": "Big black shape with eyes of fire Tellin' people their desire Satan's sittin' there, he's smilin' Watches those flames get higher and higher Oh, no, no, please, God, help me"
         }
       ]
     }
